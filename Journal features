@@ -1,0 +1,18 @@
+
+
+journal_features = {
+    "journal_year": "Year in which the journal volume/issue was published",
+    "Total Citations": "Total citations from the lastest year JCR has data available for",
+    "Journal impact factor": "Average number of citations received by articles published in the last two years",
+    "JIF without self cites": "Journal Impact Factor excluding self-citations from the journal",
+    "Immediacy Index": "Average number of citations an article receives in the year it is published",
+    "Citable items": "Total number of citable items (e.g., articles, reviews) published in the journal",
+    "% of articles in Citable items": "Percentage of articles within the total citable items of the journal",
+    "Average JIF Percentile": "Average percentile rank of the journal’s impact factor relative to others in its field",
+    "Total Articles": "Total number of articles published in the journal",
+    "Total Reviews": "Total number of review articles published in the journal",
+    "Cited Half-Life": "Median age of articles cited by the journal in a given year",
+    "Citing Half-Life": "Median age of articles the journal cites in a given year",
+    "Eigenfactor score": "A measure of the journal’s total influence based on the number of incoming citations, with highly cited journals weighted more heavily",
+    "Normalized Eigenfactor": "Eigenfactor score normalized to account for the number of articles published in the journal"
+}
